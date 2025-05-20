@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Adhalgev</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh Adhalge</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
